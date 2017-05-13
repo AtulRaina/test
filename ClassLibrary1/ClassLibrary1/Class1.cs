@@ -12,5 +12,6 @@ namespace ClassLibrary1
         string id;
         string This;
         // the client modified a new file 
+        string andsomenew code;
     }
 }
