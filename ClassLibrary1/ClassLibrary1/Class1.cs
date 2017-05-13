@@ -10,5 +10,7 @@ namespace ClassLibrary1
     {
         string username;
         string id;
+        string This;
+        // the client modified a new file 
     }
 }
