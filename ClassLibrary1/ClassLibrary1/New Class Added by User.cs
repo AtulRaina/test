@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class Default 
+    class New_Class_Added_by_User
     {
-        string username;
-        string id;
-        string This;
-        // the client modified a new file 
+        string test = "I am adding a new brach to test this";
     }
 }
